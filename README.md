@@ -4,6 +4,7 @@
   - [x] get jekyll minima running locally
   - [x] make sure it deploys to prod
 - [ ] Match requirements
+  - [ ] switch to using [this theme]([minimal academic jekyll template](https://minimal-light-theme.yliu.me/?ref=jekyll-themes.com))
   - [ ] nice photo
   - [ ] link to downloadable cv pdf
   - [ ] list of publications, datasets etc.
@@ -21,3 +22,6 @@ Useful links:
 
 ## Local Testing
 `bundle exec jekyll serve`
+
+# Inspiration
+- [minimal academic jekyll template](https://minimal-light-theme.yliu.me/?ref=jekyll-themes.com)
