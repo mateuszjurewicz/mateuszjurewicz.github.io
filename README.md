@@ -3,15 +3,28 @@
 - [x] Initial setup
   - [x] get jekyll minima running locally
   - [x] make sure it deploys to prod
-- [ ] Match requirements
-  - [ ] switch to using [this theme]([minimal academic jekyll template](https://minimal-light-theme.yliu.me/?ref=jekyll-themes.com))
-  - [ ] nice photo
-  - [ ] link to downloadable cv pdf
+- [x] **Match requirements**
+  - [x] switch to using [minimal academic jekyll template](https://minimal-light-theme.yliu.me/?ref=jekyll-themes.com)
+  - [x] continue editing _config.yml
+    - [x] need to add a place I can download the cv from, not sure if it can be this website itself
+      - google drive works fine
+  - [x] nice, bigger photo
+  - [x] link to downloadable cv pdf
+  - [x] nice clickable icons to linkedin, github, orcid
+  - [x] pages for personal projects? (e.g. AI & Privacy)
+    - `Do these via links here, with images, to external blog site (e.g. substack?)`
+- [ ] **Content Changes**
+  - [ ] updated bio
   - [ ] list of publications, datasets etc.
     - [ ] with a nice image each! (like Cem Anil's)
   - [ ] education list
-  - [ ] nice clickable icons to linkedin, github, orcid
-  - [ ] pages for personal projects? (e.g. AI & Privacy)
+- [ ] **Looks**
+  - [ ] final visuals -> nice fonts / colours
+    - in minimal-light.scss for headers!
+    - K said she'll come up with google-available fonts, different for header and body (body is changed in that same scss file under body)
+- [ ] **Deploy**
+  - [ ] check if it looks good when published at https://mateuszjurewicz.github.io/
+  - [ ] update linkedin, github, ORCID, CV with links to this
 
 # Development
 Useful links:
