@@ -14,10 +14,9 @@
   - [x] pages for personal projects? (e.g. AI & Privacy)
     - `Do these via links here, with images, to external blog site (e.g. substack?)`
 - [ ] **Content Changes**
-  - [ ] updated bio
-  - [ ] list of publications, datasets etc.
+  - [x] updated bio
+  - [ ] **list of publications, datasets etc.**
     - [ ] with a nice image each! (like Cem Anil's)
-  - [ ] education list
 - [ ] **Looks**
   - [ ] final visuals -> nice fonts / colours
     - in minimal-light.scss for headers!
