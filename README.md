@@ -21,6 +21,7 @@
   - [ ] final visuals -> nice fonts / colours
     - in minimal-light.scss for headers!
     - K said she'll come up with google-available fonts, different for header and body (body is changed in that same scss file under body)
+      - https://docs.google.com/document/d/11t83DP5lSsfDfEORaY4B-Fd_9Rk51tbPw4Yplr06yDc/edit
 - [ ] **Deploy**
   - [ ] check if it looks good when published at https://mateuszjurewicz.github.io/
   - [ ] update linkedin, github, ORCID, CV with links to this
