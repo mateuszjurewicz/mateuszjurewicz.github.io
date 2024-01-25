@@ -13,15 +13,15 @@
   - [x] nice clickable icons to linkedin, github, orcid
   - [x] pages for personal projects? (e.g. AI & Privacy)
     - `Do these via links here, with images, to external blog site (e.g. substack?)`
-- [ ] **Content Changes**
-  - [x] updated bio
-  - [ ] **list of publications, datasets etc.**
-    - [ ] with a nice image each! (like Cem Anil's)
-- [ ] **Looks**
-  - [ ] final visuals -> nice fonts / colours
+- [x] **Looks**
+  - [x] final visuals -> nice fonts / colours
     - in minimal-light.scss for headers!
     - K said she'll come up with google-available fonts, different for header and body (body is changed in that same scss file under body)
       - https://docs.google.com/document/d/11t83DP5lSsfDfEORaY4B-Fd_9Rk51tbPw4Yplr06yDc/edit
+- [ ] **Content Changes**
+  - [x] updated bio
+  - [ ] **list of publications, datasets etc.**
+    - [ ] with a nice, **biggger** image each! (like Cem Anil's)
 - [ ] **Deploy**
   - [ ] check if it looks good when published at https://mateuszjurewicz.github.io/
   - [ ] update linkedin, github, ORCID, CV with links to this
