@@ -18,14 +18,13 @@
     - in minimal-light.scss for headers!
     - K said she'll come up with google-available fonts, different for header and body (body is changed in that same scss file under body)
       - https://docs.google.com/document/d/11t83DP5lSsfDfEORaY4B-Fd_9Rk51tbPw4Yplr06yDc/edit
-- [ ] **Content Changes**
+- [x] **Content Changes**
   - [x] updated bio
   - [x] adjust research interests to more gently suggest AI Safety transition?
-  - [ ] **list of publications, datasets etc.**
-    - [ ] with a nice, **biggger** image each! (like Cem Anil's)
-- [ ] **Deploy**
-  - [ ] check if it looks good when published at https://mateuszjurewicz.github.io/
-  - [ ] update linkedin, github, ORCID, CV with links to this
+- [x] add publications 1 & 2
+- [ ] add publications 3 & 4
+- [ ] **Deploy** | check if it looks good when published at https://mateuszjurewicz.github.io/
+- [ ] update linkedin, github, ORCID, CV with links to this
 
 # Development
 Useful links:
