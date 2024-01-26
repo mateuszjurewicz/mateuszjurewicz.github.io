@@ -20,6 +20,7 @@
       - https://docs.google.com/document/d/11t83DP5lSsfDfEORaY4B-Fd_9Rk51tbPw4Yplr06yDc/edit
 - [ ] **Content Changes**
   - [x] updated bio
+  - [x] adjust research interests to more gently suggest AI Safety transition?
   - [ ] **list of publications, datasets etc.**
     - [ ] with a nice, **biggger** image each! (like Cem Anil's)
 - [ ] **Deploy**
