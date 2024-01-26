@@ -5,7 +5,8 @@ main:
     conference_short: NeurIPS
     conference: Neural Information Processing Systems, <b>NeurIPS</b> Datasets and Benchmarks, 2021.
     pdf: https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/32bb90e8976aab5298d5da10fe66f21d-Paper-round1.pdf
-    bibtex: https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/116-/bibtex
+    bibtex: https://dblp.org/rec/journals/corr/abs-2103-09656.html?view=bibtex
+    code: https://github.com/mateuszjurewicz/procat
     image: "./assets/publication_imgs/neurips.png"
 
   - title: "Set-to-Sequence Methods in Machine Learning"
