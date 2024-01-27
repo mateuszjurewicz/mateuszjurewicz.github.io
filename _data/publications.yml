@@ -1,7 +1,25 @@
 main:
 
+  - title: "The Catalog Problem: Clustering and Ordering Variable-Sized Sets"
+    authors: Mateusz Jurewicz, Graham Taylor, Leon Derczynski
+    conference_short: ICML (PMLR)
+    conference: International Conference on Machine Learning, <b>ICML</b> 2023.
+    pdf: https://proceedings.mlr.press/v202/jurewicz23a/jurewicz23a.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:e9MlPVJJFhYJ:scholar.google.com/&output=citation&scisdr=ClHhyGRjEKunjBkbWcA:AFWwaeYAAAAAZbUdQcDMNQu4sR2ZnzaEv43WHB8&scisig=AFWwaeYAAAAAZbUdQcBxHXgQAC11ae0ryNnaxcs&scisf=4&ct=citation&cd=-1&hl=pl
+    code: https://github.com/mateuszjurewicz/neural-ordered-clusters
+    image: "./assets/publication_imgs/icml_2.png"
+
+  - title: "Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction"
+    authors: Mateusz Jurewicz, Leon Derczynski
+    conference_short: IJCAI-ECAI
+    conference: International Joint Conference on Artificial Intelligence, <b>IJCAI-ECAI</b> 2022.
+    pdf: https://www.ijcai.org/proceedings/2022/0434.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HR9nENcBZ74J:scholar.google.com/&output=citation&scisdr=ClHhyGRjEKunjBj8ty8:AFWwaeYAAAAAZbT6ry9rPvWZngpg1b1DUjIUJcA&scisig=AFWwaeYAAAAAZbT6r41nK1aXhXIw7WtN1XWVlig&scisf=4&ct=citation&cd=-1&hl=pl&scfhb=1
+    code: https://github.com/mateuszjurewicz/set-interdependence-transformer
+    image: "./assets/publication_imgs/ijcai_ecai.png"
+
   - title: "PROCAT: Product Catalogue Dataset for Implicit Clustering, Permutation Learning and Structure Prediction"
-    authors: <b>Mateusz Jurewicz</b>, Leon Derczynski
+    authors: Mateusz Jurewicz, Leon Derczynski
     conference_short: NeurIPS
     conference: Neural Information Processing Systems, <b>NeurIPS</b> Datasets and Benchmarks, 2021.
     pdf: https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/32bb90e8976aab5298d5da10fe66f21d-Paper-round1.pdf
@@ -10,7 +28,7 @@ main:
     image: "./assets/publication_imgs/neurips.png"
 
   - title: "Set-to-Sequence Methods in Machine Learning"
-    authors: <b>Mateusz Jurewicz</b>, Leon Derczynski
+    authors: Mateusz Jurewicz, Leon Derczynski
     conference_short: JAIR (ACM)
     conference: Journal of Artificial Intelligence Research, <b>JAIR</b>, 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1613/jair.1.12839

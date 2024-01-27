@@ -3,7 +3,7 @@ layout: homepage
 ---
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">Who am I?</h2>
 
 I am a Senior Machine Learning Engineer and Artificial Intelligence Researcher interested in safely deploying AI models to help understand and solve real-world challenges. 
 

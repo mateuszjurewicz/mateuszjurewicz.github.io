@@ -22,7 +22,7 @@
   - [x] updated bio
   - [x] adjust research interests to more gently suggest AI Safety transition?
 - [x] add publications 1 & 2
-- [ ] add publications 3 & 4
+- [x] add publications 3 & 4
 - [ ] **Deploy** | check if it looks good when published at https://mateuszjurewicz.github.io/
 - [ ] update linkedin, github, ORCID, CV with links to this
 
