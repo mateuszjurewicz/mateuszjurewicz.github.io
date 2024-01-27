@@ -1,55 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+# Basic Information 
 title: Mateusz Jurewicz
+position: Senior ML/AI Engineer
+scientific_title: PhD in Computer Science
+affiliation: IT University of Copenhagen
+affiliation_link: https://en.itu.dk/Research/Departments/Computer-Science-Department
+# affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 email: mateusz.jurewicz@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# Search Engine Optimization (SEO)
+keywords: mateusz jurewicz, mateusz, jurewicz, machine learning, artificial intelligence, phd, academic, cv, online cv
+canonical: https://mateuszjurewicz.github.io/
+description: Mateusz Jurewicz holds a PhD in Computer Science from the IT University of Copenhagen. He is an experienced ML/AI researcher and software engineer focused on AI Safety. 
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.dk/citations?user=VYr8R8wAAAAJ
+cv_link: https://drive.google.com/file/d/1HAfiZShizOecs12jf8x-v5KC70Rvu5Du/view?usp=sharing
+github_link: https://github.com/mateuszjurewicz
+linkedin: https://www.linkedin.com/in/mateusz-jurewicz-phd-a084aa6a/
+twitter: https://twitter.com/MateuszJurewic1
+
+# Images 
+avatar: ./assets/img/avatar.png
+# avatar: https://i.ibb.co/KFWpcv4/Mateusz-3-modified.png
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
+
+# # Footnotes
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
