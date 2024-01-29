@@ -5,7 +5,7 @@ main:
     conference_short: ICML (PMLR)
     conference: International Conference on Machine Learning, <b>ICML</b> 2023.
     pdf: https://proceedings.mlr.press/v202/jurewicz23a/jurewicz23a.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:e9MlPVJJFhYJ:scholar.google.com/&output=citation&scisdr=ClHhyGRjEKunjBkbWcA:AFWwaeYAAAAAZbUdQcDMNQu4sR2ZnzaEv43WHB8&scisig=AFWwaeYAAAAAZbUdQcBxHXgQAC11ae0ryNnaxcs&scisf=4&ct=citation&cd=-1&hl=pl
+    bibtex: https://dblp.org/rec/conf/icml/JurewiczTD23.html?view=bibtex
     code: https://github.com/mateuszjurewicz/neural-ordered-clusters
     image: "./assets/publication_imgs/icml_2.png"
 
@@ -14,7 +14,7 @@ main:
     conference_short: IJCAI-ECAI
     conference: International Joint Conference on Artificial Intelligence, <b>IJCAI-ECAI</b> 2022.
     pdf: https://www.ijcai.org/proceedings/2022/0434.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HR9nENcBZ74J:scholar.google.com/&output=citation&scisdr=ClHhyGRjEKunjBj8ty8:AFWwaeYAAAAAZbT6ry9rPvWZngpg1b1DUjIUJcA&scisig=AFWwaeYAAAAAZbT6r41nK1aXhXIw7WtN1XWVlig&scisf=4&ct=citation&cd=-1&hl=pl&scfhb=1
+    bibtex: https://dblp.org/rec/conf/ijcai/JurewiczD22.html?view=bibtex
     code: https://github.com/mateuszjurewicz/set-interdependence-transformer
     image: "./assets/publication_imgs/ijcai_ecai.png"
 
@@ -23,7 +23,7 @@ main:
     conference_short: NeurIPS
     conference: Neural Information Processing Systems, <b>NeurIPS</b> Datasets and Benchmarks, 2021.
     pdf: https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/32bb90e8976aab5298d5da10fe66f21d-Paper-round1.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2103-09656.html?view=bibtex
+    bibtex: https://dblp.org/rec/conf/nips/JurewiczD21.html?view=bibtex
     code: https://github.com/mateuszjurewicz/procat
     image: "./assets/publication_imgs/neurips.png"
 
@@ -32,7 +32,7 @@ main:
     conference_short: JAIR (ACM)
     conference: Journal of Artificial Intelligence Research, <b>JAIR</b>, 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1613/jair.1.12839
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_qwoi3xVFjIJ:scholar.google.com/&output=citation&scisdr=ClHhyGRjEKunjB9MJdU:AFWwaeYAAAAAZbNKPdUnfo5LeAMvjSKfwwse_Lo&scisig=AFWwaeYAAAAAZbNKPfmO1gfoufr_KVJphH2dELA&scisf=4&ct=citation&cd=-1&hl=pl
+    bibtex: https://dblp.org/rec/journals/jair/JurewiczD21.html?view=bibtex
     image: "./assets/publication_imgs/jair.png"
 
   # #- title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning

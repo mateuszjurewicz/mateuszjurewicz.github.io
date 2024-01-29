@@ -23,8 +23,8 @@
   - [x] adjust research interests to more gently suggest AI Safety transition?
 - [x] add publications 1 & 2
 - [x] add publications 3 & 4
-- [ ] **Deploy** | check if it looks good when published at https://mateuszjurewicz.github.io/
-- [ ] update linkedin, github, ORCID, CV with links to this
+- [x] **Deploy** | check if it looks good when published at https://mateuszjurewicz.github.io/
+- [x] update linkedin, github, ORCID, CV with links to this
 
 # Development
 Useful links:
@@ -34,7 +34,10 @@ Useful links:
   - [deployment status on github actions](https://github.com/mateuszjurewicz/mateuszjurewicz.github.io/actions)
 
 ## Local Testing
-`bundle exec jekyll serve`
+- run server `bundle exec jekyll serve`
+- update visuals primarily in `minimal-light.scss`
+- update new publication in `publications.yml`
+
 
 # Inspiration
 - [minimal academic jekyll template](https://minimal-light-theme.yliu.me/?ref=jekyll-themes.com)
