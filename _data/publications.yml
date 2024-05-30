@@ -1,5 +1,13 @@
 main:
 
+  - title: "Artificial Intelligence and Privacy: Causes for Concern"
+    authors: Mateusz Jurewicz, Natacha Klein Käfer, Esben Kran
+    conference_short: PSJ
+    conference: Privacy Studies Journal, <b>PSJ</b> 2024.
+    pdf: https://tidsskrift.dk/privacy_studies_journal/article/view/143099
+    bibtex: https://tidsskrift.dk/privacy_studies_journal/citationstylelanguage/download/bibtex?submissionId=143099&publicationId=136553
+    image: "./assets/publication_imgs/psj.png"
+
   - title: "The Catalog Problem: Clustering and Ordering Variable-Sized Sets"
     authors: Mateusz Jurewicz, Graham Taylor, Leon Derczynski
     conference_short: ICML (PMLR)
