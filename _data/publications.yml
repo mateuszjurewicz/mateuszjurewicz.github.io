@@ -1,5 +1,13 @@
 main:
 
+  - title: "DarkBench: Benchmarking Dark Patterns in Large Language Models"
+    authors: Esben Kran, Jord Nguyen, Akash Kundu, Sami Jawhar, Jinsuk Park, Mateusz Jurewicz
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <b>ICLR</b> 2025.
+    pdf: https://openreview.net/pdf?id=odjMSBSWRt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CRRD1Gg6oAIJ:scholar.google.com/&output=citation&scisdr=ClHhyGRjELv76FlMxVo:AFWwaeYAAAAAZ-RK3VrQb-u7jMBKKCTNyRXcqxI&scisig=AFWwaeYAAAAAZ-RK3U84gfTkr_chTEabDCtUAJ0&scisf=4&ct=citation&cd=-1&hl=en
+    image: "./assets/publication_imgs/darkbench.png"
+
   - title: "Artificial Intelligence and Privacy: Causes for Concern"
     authors: Mateusz Jurewicz, Natacha Klein Käfer, Esben Kran
     conference_short: PSJ
